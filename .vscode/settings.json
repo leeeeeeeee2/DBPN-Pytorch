@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "D:\\ProgramData\\Miniconda3\\envs\\pytorch\\python.exe"
+    "python.pythonPath": "D:\\ProgramData\\Miniconda3\\envs\\pytorch\\python.exe",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "terminal.integrated.env.windows": {"CMDER_ROOT":"D:\\ProgramData\\Miniconda3"},
+    "terminal.integrated.shellArgs.windows": ["/K", "D:\\ProgramData\\Miniconda3\\Scripts\\activate.bat D:\\ProgramData\\Miniconda3"],
 }
